@@ -1,4 +1,4 @@
-# Django Project
+# Django New Project Create
 
 Мини инструкция пошаговой подготовки проекта на Django.  
 
@@ -53,6 +53,10 @@ django-admin startproject ProjectName
 cd ./ProjectName/
 python3 manage.py startapp AppName
 ```
+
+---
+## Примеры файлов
+* [.gitignore](/templates/.gitignore/README.md)
 
 
 ---
